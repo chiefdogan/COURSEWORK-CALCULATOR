@@ -1,0 +1,20 @@
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.exe.config
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.exe
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.pdb
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.xml
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION_CA.formCA.resources
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION_CA.formupdate.resources
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION_CA.Resources.resources
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.vbproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.exe
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.xml
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.pdb
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.exe.manifest
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.application
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.TrustInfo.xml
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.exe.manifest
+G:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.application
+F:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\bin\Release\FUNCTION CA.exe.config
+F:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.exe
+F:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.xml
+F:\Visual Studio 2010\Projects za dogan\FUNCTION CA\FUNCTION CA\obj\x86\Release\FUNCTION CA.pdb

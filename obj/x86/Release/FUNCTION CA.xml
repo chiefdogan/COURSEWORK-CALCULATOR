@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FUNCTIONCA
+</name>
+</assembly>
+<members>
+<member name="T:FUNCTION_CA.CollegeDBDataSet.GradeDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet.GradeDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet.GradeDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSetTableAdapters.GradeDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(FUNCTION_CA.CollegeDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(FUNCTION_CA.CollegeDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(FUNCTION_CA.CollegeDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.UpdateAll(FUNCTION_CA.CollegeDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3.GradeDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3.GradeDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3.GradeDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3TableAdapters.GradeDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(FUNCTION_CA.CollegeDBDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(FUNCTION_CA.CollegeDBDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(FUNCTION_CA.CollegeDBDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.UpdateAll(FUNCTION_CA.CollegeDBDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:FUNCTION_CA.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:FUNCTION_CA.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:FUNCTION_CA.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2.GradeDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2.GradeDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2.GradeDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2TableAdapters.GradeDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(FUNCTION_CA.CollegeDBDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(FUNCTION_CA.CollegeDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(FUNCTION_CA.CollegeDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.UpdateAll(FUNCTION_CA.CollegeDBDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1.GradeDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1.GradeDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1.GradeDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1TableAdapters.GradeDetailTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(FUNCTION_CA.CollegeDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(FUNCTION_CA.CollegeDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(FUNCTION_CA.CollegeDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(FUNCTION_CA.CollegeDBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:FUNCTION_CA.CollegeDBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
